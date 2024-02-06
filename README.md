@@ -1,5 +1,5 @@
 **Remark**:   
-This is a mini project to for fun and understand the usage of ReactJS  
+This mini project is just for fun and to understand the usability of ReactJS  
 Project Reference from: https://github.com/dikshikaaa/Valentines-Day
 
 
