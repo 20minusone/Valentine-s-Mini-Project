@@ -1,0 +1,15 @@
+.centered-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.text-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: monospace;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
